@@ -1,0 +1,11 @@
+.container{
+    background-color: aqua;
+    padding: 10px 10px;
+ }
+ 
+ .head_title{
+     text-align: center;
+ }
+ .head_title h1{
+     text-transform: uppercase;
+ }

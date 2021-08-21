@@ -1,0 +1,38 @@
+.header h1{
+    text-align: center;
+    text-transform: uppercase;
+}
+.header h3{
+    text-align: center;
+}
+
+.row_div{
+
+justify-content: space-evenly;
+
+}
+.card_div{
+    
+    border-radius   : 10px;
+    padding: 20px;
+    margin: 20px;
+}
+.card-img{
+    border-radius: 20px;
+}
+.card-title_2{
+    text-align: center;
+}
+.card-div{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.button:active {
+    background-color: #2a8dce;
+  }
+  .button:hover {
+    border-radius: 4px;
+    background-color: #e7f0e62a;
+  }

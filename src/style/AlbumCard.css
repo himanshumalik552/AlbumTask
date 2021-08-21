@@ -1,0 +1,38 @@
+
+.album{
+    margin: 20px;
+}
+.card{
+    background-color: #27AA7E;
+    
+
+}
+.card-body h3, h2{
+    color: #DAF5EE;
+    text-transform: uppercase;
+
+   
+}
+.user-name{
+   color: #DAF5EE;
+}
+.card-body a{
+    text-decoration: none;
+    color: #DAF5EE;
+    font-size: 25px;
+}
+.card-title{
+    text-transform: uppercase;;
+    color: #DAF5EE;
+}
+
+.link-div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 4px;
+}
+.card-link{
+    text-transform: uppercase;
+    
+}
